@@ -10,6 +10,7 @@ const nextSequence = () => {
 
   var audio = new Audio('sounds/'+ randomChosenColor + '.mp3');
   audio.play();
+  
 };
 
 // lesson 195 - step4 jquery
